@@ -1,0 +1,21 @@
+. {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(228, 217, 217);
+}
+main {
+  width: 50px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+.firstrow{ 
+  border-width: 2px;
+  background-color:hsl(hue, saturation, lightness) ;
+
+}
